@@ -1,1 +1,1 @@
-#VR版"hello world"
+VR版"hello world"
